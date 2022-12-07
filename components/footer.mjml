@@ -1,0 +1,104 @@
+<mj-raw>
+    <!-- FOOTER -->
+</mj-raw>
+<mj-wrapper 
+    css-class="footer"
+    padding="0">
+    <mj-section 
+        padding="0">
+            <mj-group
+                css-class="icons-size">
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/92YCSRx/fb.png"
+                        alt="facebook"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://facebook.com/shopify" />
+                </mj-column>
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/0qbFMJT/tw.png"
+                        alt="twitter"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://twitter.com" />
+                </mj-column>
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/tKQH4LH/insta.png"
+                        alt="instagram"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://instagram.com" />
+                </mj-column>
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/ckFwrFL/snap.png"
+                        alt="snapchat"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://snapchat.com" />
+                </mj-column>
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/Dkz1gZD/in.png"
+                        alt="linkedin"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://linkedin.com" />
+                </mj-column>
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/5sb8KFN/pin.png"
+                        alt="pinterest"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://pinterest.com" />
+                </mj-column>
+                <mj-column padding="0"> 
+                    <mj-image
+                        src="https://i.ibb.co/hmCZpwv/yt.png"
+                        alt="youtube"
+                        width="27px"
+                        height="27px"
+                        padding="0 5px"
+                        href="https://youtube.com" />
+                </mj-column>
+            </mj-group>  
+    </mj-section>
+    <mj-section
+        padding="20px 0 0">
+            <mj-column padding="0">
+                <mj-text
+                    font-size="10px"
+                    align="center">
+                        &copy; Shopify, 151 O'Connor Street, Ground Floor, Ottawa ON, K2P 2LB
+                </mj-text>
+            </mj-column>
+    </mj-section>
+    <mj-section
+        padding="0 0 60px">
+            <mj-column padding="0">
+                <mj-text
+                    font-size="10px"
+                    align="center">
+                        <a href="#"
+                            class="footer-links">
+                                Unsubscribe
+                        </a> 
+                        |
+                        <a href="#"
+                            class="footer-links">
+                            Manage Your Email Preferences
+                        </a> 
+                </mj-text>
+            </mj-column>
+    </mj-section>
+</mj-wrapper>

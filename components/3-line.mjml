@@ -1,0 +1,11 @@
+<mj-raw>
+    <!-- Three Line Divider -->
+</mj-raw>
+<mj-section background-color="#ffffff">
+    <mj-column >
+        <mj-image
+            src="https://i.ibb.co/rGRD2JH/3-lines.png"
+            padding="0"
+        />
+    </mj-column>
+</mj-section>
